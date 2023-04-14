@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="README/DQ_Lab2.png"></a>
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="README/DQ_Lab.png"></a>
 </p>
 
 <br />
